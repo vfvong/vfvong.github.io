@@ -3,4 +3,8 @@ layout: page
 title: About
 permalink: /about/
 ---
-I'm Song-Zi Vong, a graduate of Applied Physics and former game programmer.
+My name is Song-Zi (尚志) Vong, and I was born in a small town in the south of China. Later I studied applied physics at a university in [Guangzhou](https://goo.gl/maps/8YCdV9PrTZ495WPv9), expecting to become a physicist in the future. But I failed due to some personal reasons. After graduating, I accidentally became a game programmer. I’m a freelancer now and still learning mathematics, physics, and programming.
+
+I live in [Foshan](https://goo.gl/maps/zgiuQy3cpFmNan9u7) with two cats:
+
+![My two cats]({{ 'assets/img/two-cats.jpg' | relative_url }})
