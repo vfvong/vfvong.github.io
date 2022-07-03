@@ -6,7 +6,7 @@ tags:
 - blog
 - note-taking
 date: 2022-05-30 19:03 +0800
-last_modified_at: 2022-06-18 19:50:48 +0800
+last_modified_at: 2022-07-03 17:34:53 +0800
 ---
 As I grew older, I felt more and more ignorant. I desperately need to absorb more knowledge and ponder deeper questions, and this blog will be a powerful tool to help me achieve those goals. This blog will drive me to record what I read, think, and do. Writing is thinking.
 
