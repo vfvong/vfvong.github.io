@@ -1,0 +1,15 @@
+- title: Feed
+  url: /feed.xml
+  icon: fas fa-rss
+- title: Email
+  url: mailto:vfvong@gmail.com
+  icon: fas fa-envelope
+- title: GitHub
+  url: https://github.com/vfvong
+  icon: fab fa-github
+- title: Twitter
+  url: https://twitter.com/vfvong
+  icon: fab fa-twitter
+- title: Instagram
+  url: https://instagram.com/vfvong
+  icon: fab fa-instagram

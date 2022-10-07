@@ -1,0 +1,67 @@
+title: V for Vong
+tagline: The blog of Song-Zi Vong
+description: Record what I read, think, and do.
+author:
+  name: Song-Zi Vong
+  url: https://twitter.com/vfvong
+  twitter: vfvong
+url: "https://vfvong.blog"
+cover: /cover.jpg
+twitter:
+  username: vfvong
+  card: summary
+logo: /apple-touch-icon.png
+social:
+  name: Song-Zi Vong
+  links:
+    - https://twitter.com/vfvong
+    - https://github.com/vfvong
+
+defaults:
+  - scope:
+      path: ""      
+      type: "posts"
+    values:
+      author: "Song-Zi Vong"
+  - scope:
+      path: ""      
+      type: "pages"
+    values:
+      author: "Song-Zi Vong"
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-paginate
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jemoji
+
+remote_theme: vfvong/jekyll-theme-quartz
+
+paginate: 20
+
+google_analytics: G-KFYGTPW8K1
+
+disqus: vfvong
+
+categories_path: /categories/
+tags_path: /tags/
+
+include:
+  - _pages
+
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - script/
+  - CNAME
+  - README.md
